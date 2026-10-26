@@ -1,0 +1,17 @@
+$ tclsh sch_info.tcl -> rc 0
+
+VARIANT_ERR invalid command name "new_CISDesign"
+variant names not readable outside Capture, using ASSEMBLY
+Capture window (OrCaptureFrame): OrCAD X Capture | Session Log | Session Log | Session Log - Session Log | Command Window | Online DRCs | Navigation Window | XProbe Results | Find Results | Find | Find | Find | Find what: | &Parts | &Off-Page-Connectors | &Bookmarks | &Text | &Nets | Flat N&ets | &Floating Nets | H&ierarchical Port
+--- capture_job.log ---
+14:19:35 job started
+14:19:38 project opened
+14:19:39 design ready: 1
+14:19:39 BOM CORE: SelectPMItem -> , selected: _d09a4d836f010000_p_DboSchematic
+14:19:41 BOM CORE: Menu -> 1
+14:19:41 BOM CORE OK
+14:19:41 BOM ASSEMBLY: SelectPMItem -> , selected: _d09a4d836f010000_p_DboSchematic
+14:19:42 BOM ASSEMBLY: Menu -> 1
+14:19:42 BOM ASSEMBLY OK
+14:19:46 PDF OK
+14:19:46 job finished

@@ -1,0 +1,39 @@
+SCHEMATIC DOCUMENTATION 31010015169_Gbionics_Motor_winding_head_board_REV-00
+============================================================================
+
+Project               : C:\Users\marta.morabito\Documents\Gbionics\31010015169_Gbionics_Motor_winding_head_board\PCB_00\orcad_project\31010015169_SCH.opj
+Schematic code        : 31010015169
+Revision              : 00
+Description           : Gbionics_Motor_winding_head_board
+Date                  : 2026-10-26
+PCB (.brd)            : -
+
+RESULT: OK - 0 errors, 1 warnings
+
+--- Names ---
+[OK] board folder starts with schematic code 31010015169
+[OK] design 31010015169_SCH.DSN matches the schematic code
+
+--- Title blocks ---
+[OK] schematic 'SCHEMATIC', 3 pages
+[OK] Doc = 31010015169 on all 3 title blocks
+[OK] RV = 00 on all title blocks
+
+--- BOM CORE ---
+[OK] 23 standard columns
+[OK] 79 rows, 79 references, total quantity 79
+
+--- BOM ASSEMBLY ---
+[OK] 23 standard columns
+[OK] 79 rows, 79 references, total quantity 79
+
+--- BOM ---
+[OK] written bom\31010015169_SCH_ASSEMBLY_ENG BILL OF MATERIALS.BOM
+[OK] written bom\31010015169_SCH_CORE_ENG BILL OF MATERIALS.BOM
+
+--- BOM variant ---
+[WARNING] ASSEMBLY BOM equals the Core Design: check that the schematic has the variant ASSEMBLY (the only allowed variant name)
+[OK] 0 parts not stuffed in ASSEMBLY: 
+
+--- PDF ---
+[OK] written electrical_schematic\31010015169_Gbionics_Motor_winding_head_board_REV00_Schematic (2026-10-26).pdf (178 kB)

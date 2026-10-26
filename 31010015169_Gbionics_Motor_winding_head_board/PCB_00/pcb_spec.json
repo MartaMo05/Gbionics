@@ -1,0 +1,82 @@
+{
+  "_comment": "Manual data for the PCB detail spec (make_prod_package). Replace every TBD. Technical data (stackup, holes, dimensions, Gerber) are computed from the .brd and must NOT be entered here. A filled-in example: deploy\\examples\\pcb_spec_example.",
+  "company": "Phase Motion Control",
+  "project_manager": {
+    "name": "TBD",
+    "email": "TBD",
+    "phone": "-"
+  },
+  "equipment": "TBD",
+  "pcb_description": "TBD",
+  "pcb_type": "Rigid",
+  "ipc_class": "IPC CLASS 2",
+  "material": "FR4",
+  "panel_dimension": "NA",
+  "technology": {
+    "tht": true,
+    "pressfit_holes": false,
+    "via_on_pad": false,
+    "blind_vias": false,
+    "laser_vias": false,
+    "buried_vias": false,
+    "plated_slots": false,
+    "plated_edges": false,
+    "gold_fingers": false
+  },
+  "components": {
+    "fine_pitch": [
+      true,
+      true
+    ],
+    "bga": [
+      false,
+      false
+    ],
+    "pressfit": [
+      false,
+      false
+    ]
+  },
+  "min_track_clearance": {
+    "track": {
+      "top": null,
+      "bottom": null,
+      "inner": null,
+      "plane": null
+    },
+    "clearance": {
+      "top": null,
+      "bottom": null,
+      "inner": null,
+      "plane": null
+    },
+    "annular_ring": {
+      "top": null,
+      "bottom": null,
+      "inner": null,
+      "plane": null
+    }
+  },
+  "finish": {
+    "solder_resist": [
+      true,
+      true
+    ],
+    "tented_vias": [
+      true,
+      true
+    ],
+    "silkscreen": [
+      true,
+      true
+    ],
+    "technology": "ENIG (Ni/Au)",
+    "note": "In case of ENIG Finishing use Au >= 0.0508 um"
+  },
+  "notes_title": "!!!VERY IMPORTANT!!!",
+  "notes": [],
+  "stackup": {
+    "silkscreen_colour": "BLACK",
+    "soldermask_colour": "WHITE"
+  }
+}
